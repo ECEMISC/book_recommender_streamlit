@@ -51,7 +51,7 @@ st.markdown(
 
 # Sidebar'a görsel ekle
 st.sidebar.image(
-    ""amazon_logo.JPG", use_column_width=True",
+    "amazon_logo.JPG", use_column_width=True",
     use_column_width=True
 )
 
